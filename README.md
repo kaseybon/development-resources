@@ -37,3 +37,5 @@ Performance
 -----------
 
 * [Performance Tooling](http://perf-tooling.today/)
+
+> I also have a list of [Learning Resources](https://github.com/kaseybon/learning-resources) for web design and development.
