@@ -28,6 +28,9 @@ Code
 
 * [YAML Linter](http://yaml-online-parser.appspot.com/)
 
+**StyleGuides**
+
+* [Website Style Guide Resources](http://styleguides.io/)
 
 Images
 ------
