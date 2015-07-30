@@ -18,6 +18,7 @@ Code
 **Javascript**
 
 * [JS Linter](http://www.jslint.com/)
+* [Try Jasmine](http://tryjasmine.com/)
 
 **Markdown**
 
